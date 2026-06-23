@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>STEM XII — Edison · SY 2026–2027</title>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="stem_xii_edison.css" />
+</head>
+<body>
+
+<nav>
+  <div class="nav-logo">STEM XII · EDISON</div>
+  <ul class="nav-links" id="nav-links">
+    <li><a href="#" onclick="showPage('home')" id="nav-home" class="active">Home</a></li>
+    <li><a href="#" onclick="showPage('students')" id="nav-students">Students</a></li>
+    <li><a href="#" onclick="showPage('awards')" id="nav-awards">Awards</a></li>
+  </ul>
+  <button class="hamburger" id="hamburger" onclick="toggleNav()" aria-label="Toggle navigation">
+    <span></span>
+    <span></span>
+    <span></span>
+  </button>
+</nav>
+
+<div id="page-home" class="page active">
+  <section class="hero">
+    <div class="hero-orb hero-orb-1"></div>
+    <div class="hero-orb hero-orb-2"></div>
+    <div class="hero-orb hero-orb-3"></div>
+    <div class="hero-content">
+      <p class="hero-eyebrow">Science Technology Engineering Mathematics</p>
+      <h1>XII · <span class="accent">EDISON</span></h1>
+      <p class="hero-subtitle">SY 2026 — 2027</p>
+      <p>ambot unsay ibutang description</p>
+      <div class="hero-actions">
+        <button class="btn-primary" onclick="showPage('students')">Students</button>
+        <button class="btn-outline" onclick="showPage('awards')">Awards</button>
+      </div>
+    </div>
+  </section>
+
+  <div class="stats-row">
+    <div class="stat">
+      <div class="stat-number">0</div>
+      <div class="stat-label">Students</div>
+    </div>
+    <div class="stat">
+      <div class="stat-number">0</div>
+      <div class="stat-label">Class Awards</div>
+    </div>
+    <div class="stat">
+      <div class="stat-number">2026 – 2027</div>
+      <div class="stat-label">School Year</div>
+    </div>
+  </div>
+</div>
+
+<div id="page-students" class="page">
+  <div class="page-header">
+    <div class="page-header-inner">
+      <p class="section-label">STEM XII · EDISON</p>
+      <h2>Students List</h2>
+      <p>Browse by school year batch. Click any card to view a student's profile.</p>
+    </div>
+  </div>
+
+  <div class="batch-bar" id="batch-bar"></div>
+
+  <div class="search-bar-wrap">
+    <input type="text" id="student-search" placeholder="Search by name or role…" oninput="filterStudents(this.value)" />
+  </div>
+
+  <div class="students-grid" id="students-grid"></div>
+</div>
+
+<div id="page-awards" class="page">
+  <div class="page-header">
+    <div class="page-header-inner">
+      <p class="section-label">Honors & Recognition</p>
+      <h2>Awards</h2>
+      <p>Achievements and Citations of STEM XII - EDISON</p>
+    </div>
+  </div>
+
+  <div class="awards-wrap">
+    <div class="awards-grid" id="awards-grid"></div>
+  </div>
+</div>
+
+<div class="profile-overlay" id="profile-overlay" onclick="closeProfile(event)">
+  <div class="profile-panel" id="profile-panel">
+    <div class="profile-header">
+      <button class="close-btn" onclick="closeProfilePanel()">✕</button>
+      <div class="profile-avatar" id="p-avatar"></div>
+      <div class="profile-name" id="p-name"></div>
+      <div class="profile-role" id="p-role"></div>
+      <div class="badge-row" id="p-badges"></div>
+    </div>
+    <div class="profile-body">
+      <p class="profile-section-title">About</p>
+      <p class="profile-bio" id="p-bio"></p>
+      <div class="profile-facts">
+        <div class="profile-fact"><span class="fact-label">Height/Weight</span><span class="fact-value" id="p-heightweight"></span></div>
+        <div class="profile-fact"><span class="fact-label">Birthday</span><span class="fact-value" id="p-birthday"></span></div>
+      </div>
+      <p class="profile-section-title">Achievements</p>
+      <ul class="achievement-list" id="p-achievements"></ul>
+      <p class="profile-section-title">Interests</p>
+      <div class="interests-wrap" id="p-interests"></div>
+    </div>
+  </div>
+</div>
+
+<script src="stem_xii_edison.js"></script>
+</body>
+</html>
