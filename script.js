@@ -6,7 +6,6 @@ const COLORS = [
 const BATCHES = {
 
   '2026-2027': [
-    { name: 'Student 1 lol', image: '', height: '', weight: '', birthday: '', role: 'Class President', color: COLORS[0], badges: ['', ''], bio: 'Pleaceholder bio', achievements: [{ title: '', desc: '' },], interests: [''] },
   ],
 
   '2025-2026': [
@@ -298,7 +297,7 @@ function renderGrid(list) {
   const grid = document.getElementById('students-grid');
   grid.innerHTML = '';
   if (!list || list.length === 0) {
-    grid.innerHTML = '<div class="batch-empty"><strong>No Students Yet</strong>Add entries to this batch in the BATCHES data object.</div>';
+    grid.innerHTML = '<div class="batch-empty"><strong>No Students Yet</strong>List will be updated soon.</div>';
     return;
   }
   list.forEach((s, i) => {
