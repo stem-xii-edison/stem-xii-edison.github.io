@@ -6,10 +6,228 @@ const COLORS = [
 const BATCHES = {
 
   '2026-2027': [
+    //Males
+    { name: 'Linz Jerry L. Abela', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Allan Keith G. Abergas', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Andrei Rafael Alay', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Migz B. Albaracin', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Francis Johnroy R. Bagaipo', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Deither S. Baldon', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Nyl O. Bondalo', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Niel Hardie A. Bontilao', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Christian Jay R. Bosque', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Sean Louisse O. Buan', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Lein Jade A. Buhat', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Chris Jericho E. Carbonel', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Sol Bryan C. Cuaresma', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Reign Mark Decesto', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Elmer John N. Del Socorro', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'KJ Khaleel M. Elorza', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Paulo Miguel M. Flores', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'C4 D. Floreta', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Kobe Bryele S. Gabonada', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Shandean Dyke C. Gauzon', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Robic T. Guerzon', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Dathan Dave H. Laoyon', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Lorence S. Matas', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Ben Klien S. Quimpan', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Jessielou Jr. Sarias', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Andy Jr., M. Tabunan', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    //Females
+    { name: 'Aaliyah J. Albasin', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Vya Ashly Kyle Z. Baynos', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Roan Krezil L. Castillo', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Kate Valerie L. Cortez', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Joyce F. Magno', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Sheilla Marie B. Montebon', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Kate Louise B. Rotante', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Kezia Grace R. Serenobes', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Jhulia Marie B. Tingal', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Heart Azinette S. Villaabrille', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
   ],
 
   '2025-2026': [
-    //Boys
+    //Males
     { name: 'Kyle Andre L. Alili', image: 'student_avatars/HKMlPZebcAAFMDb_cropped.webp', height: '', weight: '', birthday: 'September 22, 2008', role: 'Student', color: COLORS[0], 
       badges: ['3rd Quarter With Honor Student', '4th Quarter With Honor Student'], 
       bio: 'Obsessed with fictional characters', 
@@ -20,242 +238,254 @@ const BATCHES = {
         { title: 'DFOT 2025 Technolympics Technical Drafting 3rd Place', desc: 'Division Festival of Talents 2025' }, 
         { title: 'DSPC 2025 Tv Broadcasting 1st Place', desc: 'Division School\'s Press Conference 2025' }], 
       interests: ['Gaming', 'Reading', 'Music'] },
-    { name: 'Xianvee C. Almacen', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Xianvee C. Almacen', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Russelle Cris E. Araniego', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Russelle Cris E. Araniego', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Meshach Caleb A. Balubayan', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Cordell Balote', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Jared A. Boladola', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Meshach Caleb A. Balubayan', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Jossiah Russel A. Cabarrubias', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Jared A. Boladola', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Piolo B. Calisagan', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Jossiah Russel A. Cabarrubias', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Francis G. Crausos', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Piolo B. Calisagan', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Ken Charles J. Dañosos', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Francis G. Crausos', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Zadrack Jorey C. Labarinto', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Ken Charles J. Dañosos', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Brando C. Marquez', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Zadrack Jorey C. Labarinto', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Zonyd Rae T. Pasonilao', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Brando C. Marquez', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Harry Benedict I. Ruelan', image: 'student_avatars/', height: '', weight: '', birthday: 'September 22, 2008', role: '', color: COLORS[0], 
+    { name: 'Zonyd Rae T. Pasonilao', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Aaron Rave P. Salazar', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Harry Benedict I. Ruelan', image: '', height: '', weight: '', birthday: 'September 22, 2008', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Jipher S. San Juan', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Aaron Rave P. Salazar', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Wincer Cris M. Tabamo', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Jipher S. San Juan', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Prince Jeswel P. Tale', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Wincer Cris M. Tabamo', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    //Girls
-    { name: 'Princess Anne Adlawan', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Prince Jeswel P. Tale', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Denice Veane R. Agabon', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    //Females
+    { name: 'Princess Anne Adlawan', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Princess Luphea D. Alisna', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Denice Veane R. Agabon', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Queencybel L. Ambrocio', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Princess Luphea D. Alisna', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Xania Viel P. Ampo', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Queencybel L. Ambrocio', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Xenia Tina Marie E. Araniego', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Xania Viel P. Ampo', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Junessa Pearl M. Baguio', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Xenia Tina Marie E. Araniego', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Chad Trexie Kate C. Barago', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Junessa Pearl M. Baguio', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Sheenah Mariz P. Batoy', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Chad Trexie Kate C. Barago', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Kristine Joy F. Colong', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Sheenah Mariz P. Batoy', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Zendy Loraine A. Combista', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Kristine Joy F. Colong', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Mary Rose P. Erosido', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Zendy Loraine A. Combista', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Maebelle Joy T. Flores', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Mary Rose P. Erosido', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Rieze Divine C. Galvez', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Maebelle Joy T. Flores', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Razel J. Gane', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Rieze Divine C. Galvez', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Bernadette Jane R. Jandayan', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Razel J. Gane', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Ella Mae D. Mangulare', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Eldon Helgamarie', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Abegail Shane R. Montejo', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Bernadette Jane R. Jandayan', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Glendie Mitz S. Orbino', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Ella Mae D. Mangulare', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Eah P. Paquera', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Abegail Shane R. Montejo', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Hannah C. Polongasa', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Glendie Mitz S. Orbino', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Kristine Joy R. Ruelo', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Eah P. Paquera', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Debbie Mae M. Sante', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Hannah C. Polongasa', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
         { title: '', desc: '' }], 
       interests: [''] },
-    { name: 'Eliana C. Soroño', image: 'student_avatars/', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+    { name: 'Kristine Joy R. Ruelo', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Debbie Mae M. Sante', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
+      badges: ['', ''], 
+      bio: '', 
+      achievements: [
+        { title: '', desc: '' }], 
+      interests: [''] },
+    { name: 'Eliana C. Soroño', image: '', height: '', weight: '', birthday: 'N/A', role: '', color: COLORS[0], 
       badges: ['', ''], 
       bio: '', 
       achievements: [
@@ -300,18 +530,38 @@ function renderGrid(list) {
     grid.innerHTML = '<div class="batch-empty"><strong>No Students Yet</strong>List will be updated soon.</div>';
     return;
   }
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('card-visible');
+        observer.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.08, rootMargin: '0px 0px -40px 0px' });
+
   list.forEach((s, i) => {
+    const initials = s.name.split(' ').map(n => n[0]).join('').slice(0, 2);
     const card = document.createElement('div');
     card.className = 'student-card';
-    card.style.animationDelay = `${Math.min(i, 8) * 0.04}s`;
+    card.style.transitionDelay = `${Math.min(i % 8, 7) * 0.045}s`;
     card.innerHTML = `
-        <div class="avatar" style="background:${s.color};border:1px solid rgba(255,255,255,0.1)">${s.image ? `<img src="${s.image}" alt="${s.name}">` : s.name.split(' ').map(n => n[0]).join('')}</div>
+      <div class="card-top-bar"></div>
+      <div class="card-inner">
+        <div class="avatar-wrap">
+          <div class="avatar-ring"></div>
+          <div class="avatar" style="background:${s.color};border-color:rgba(255,255,255,0.1)">${s.image ? `<img src="${s.image}" alt="${s.name}">` : initials}</div>
+        </div>
         <h3>${s.name}</h3>
-        <p class="role">${s.role}</p>
-        <div class="badge-row">${s.badges.map(b => `<span class="badge">${b}</span>`).join('')}</div>
-      `;
+        <p class="role">${s.role || '—'}</p>
+        <div class="badge-row">${s.badges.filter(Boolean).map(b => `<span class="badge">${b}</span>`).join('')}</div>
+      </div>
+      <div class="card-arrow">↗</div>
+    `;
     card.addEventListener('click', () => openProfile(s));
     grid.appendChild(card);
+
+    requestAnimationFrame(() => observer.observe(card));
   });
 }
 
